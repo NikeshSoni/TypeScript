@@ -1,0 +1,126 @@
+typescript is a Development Tool
+wrapper around javascript make your life better
+your Project Still runs js 
+
+to Write To better Code 
+- esey To Understand 
+
+index -  
+
+1 - intro
+2 - install 
+3 - use 
+4 - The primitives type
+5 - dont us ANY 
+6 - function 
+7 - object 
+8 - type aliases (in object file) important
+9 - optional 
+10 - array ( in optional file)
+11 - union ( in optional file)
+12 - Tuples 
+13 - enums                   
+14 - interface --  impotant ()
+15 - interface vs type ( same as with Advance)
+
+      (https://www.typescriptlang.org/docs/handbook/2/everyday-types
+      .html#differences-between-type-aliases-and-interfaces)
+      
+      check here
+
+JavaScript and More
+	TypeScript adds additional 
+	syntax to JavaScript to support a 
+	tighter integration with your editor.
+	 Catch errors early in your editor.
+
+A Result You Can Trust
+	TypeScript code converts to JavaScript,
+	 which runs anywhere JavaScript runs: In a browser, 
+	on Node.js or Deno and in your apps.
+	
+	
+Safety at Scale
+	TypeScript understands JavaScript
+	and uses type inference to
+	give you great tooling without additional code.
+	
+	* ts is a Totaly Depend on JavaScript *
+	
+   *  ---------------install -------------*
+
+
+  install part of tcs 
+  
+  before install tcs you can check in your divice 
+  - open cmd
+   type == node -v 
+   
+   " Version of the Node"
+   type == npm -v
+   
+   "Version of the npm"
+  
+  
+  then you can write a cmd
+  npm install -g typescript
+  
+  g - stand for the globle
+  
+  then you can chek version of the Type Script
+  
+  in cmd = tsc -v 
+  
+  we can open one folder like Typescript
+  
+  then start creating file
+  
+  1 -- intro.ts
+  2 -- intro.tsx "like components"
+  
+  
+  type in ts 
+  1 - number 
+  2 - string
+  3 - boolean 
+  4 - null
+  5 - undefind 
+  6 - array
+  7 - object 
+  
+       Imaportent
+  8 - void
+  9 - Tuples....
+  10 - Any (keyword)   
+  11 - Never 
+  12 - unknown 
+  
+  
+	   syntsx of the tsd
+	   let variableName; type = value 
+
+
+  The primitives: string, number, and boolean 
+
+ 1 -->   string represents string values like "Hello, world"
+
+  
+
+
+
+ 2 --> number is for numbers like 42. JavaScript does not have a special runtime value for 
+       integers, so there’s no equivalent to int or float - everything is simply number
+
+            // number
+                  // bad code 
+                  // let userId: number = 2112;
+
+            // good code 
+                  let userId = 2112;
+                  userId.toFixed()
+
+                  userId = "Nikesh" // Error 
+
+ 3 --> boolean is for the two values true and false
+       //  boolean 
+           let condition: boolean = false;
