@@ -10,7 +10,7 @@ getting.toLowerCase();
 
 // good code 
 let userId = 2112;
-userId.toFixed()
+userId.toFixed();
 
 //  boolean 
 
@@ -24,7 +24,7 @@ let condition: boolean = false;
 
 // its not a String , boolean 
 // its a marker in the type script 
-//  tern of the type checking value
+// tern of the type checking value
 
 // let hero; bad code 
 // good code 

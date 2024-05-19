@@ -35,9 +35,9 @@ JavaScript and More
 	 Catch errors early in your editor.
 
 A Result You Can Trust
-	TypeScript code converts to JavaScript,
+	 TypeScript code converts to JavaScript,
 	 which runs anywhere JavaScript runs: In a browser, 
-	on Node.js or Deno and in your apps.
+	 on Node.js or Deno and in your apps.
 	
 	
 Safety at Scale
@@ -56,7 +56,7 @@ Safety at Scale
   - open cmd
    type == node -v 
    
-   " Version of the Node"
+   "Version of the Node"
    type == npm -v
    
    "Version of the npm"
@@ -76,7 +76,7 @@ Safety at Scale
   then start creating file
   
   1 -- intro.ts
-  2 -- intro.tsx "like components"
+  2 -- intro.tsx "stand components"
   
   
   type in ts 
